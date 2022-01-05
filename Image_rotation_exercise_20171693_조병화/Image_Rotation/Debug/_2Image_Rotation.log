@@ -1,0 +1,139 @@
+﻿  main.cpp
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(20,58): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(20,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(24,24): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(24,18): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(25,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(26,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(27,54): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(27,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(42,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(43,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(40,14): warning C4101: 'j_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(40,8): warning C4101: 'i_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(113,58): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(113,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(117,24): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(117,18): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(118,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(119,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(120,54): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(120,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(151,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(152,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(134,14): warning C4101: 'j_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(134,8): warning C4101: 'i_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(174,58): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(174,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(178,24): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(178,18): warning C4244: '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(179,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(180,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(181,54): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(181,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(221,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(222,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(223,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(223,53): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(224,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(224,54): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(225,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(225,54): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(230,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(230,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(231,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(231,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(232,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(232,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(233,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(233,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(239,38): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(240,38): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(241,38): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(192,14): warning C4101: 'j_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Image_Rotation\main.cpp(192,8): warning C4101: 'i_ch' :참조되지 않은 지역 변수입니다.
+  _2Image_Rotation.vcxproj -> C:\Users\조병화\Downloads\Image_rotation_exercise_20171693_조병화 (1)\Debug\Image_Rotation.exe
